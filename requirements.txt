@@ -1,0 +1,10 @@
+# What produced htdemucs-v1 (python 3.11). basic-pitch is installed with --no-deps for fixtures.py.
+torch==2.14.1
+demucs==4.1.0
+onnx==1.23.1
+onnxruntime==1.30.0
+numpy==2.4.6
+soundfile==0.14.0
+librosa==0.11.0
+scipy==1.17.1
+basic-pitch==0.4.0
